@@ -1,2 +1,3 @@
-# englishoxfordshanghaiedition
-上海版牛津小学英语全部单词带音标 anki deck
+# 上海版牛津小学英语全部单词带音标
+上海版牛津小学英语全部单词带音标 anki deck文件
+自行导入使用
